@@ -21,6 +21,6 @@
   <a href = "mailto:eltonfborges123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/CriM1Nal1337/CriM1Nal1337/blob/output/github-contribution-grid-snake.svg)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CriM1Nal1337&bg_color=000000&color=004cff&line=0011ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
