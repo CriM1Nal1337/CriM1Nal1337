@@ -1,9 +1,8 @@
 ## Bem-vindo(a) ao perfil do Elton Ferreira Borges 😁
-
- <div>
-   <a href="https://github.com/CriM1Nal13337">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CriM1Nal1337&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriM1Nal1337&layout=compact&langs_count=6&theme=tokyonight"/>
+<div>
+  <a href="https://github.com/CriM1Nal13337">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CriM1Nal13337&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriM1Nal13337&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +12,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/eltonfborges123" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,6 +20,6 @@
   <a href = "mailto:eltonfborges123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CriM1Nal1337&bg_color=000000&color=004cff&line=0011ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
